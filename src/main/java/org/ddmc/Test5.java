@@ -22,7 +22,7 @@ import static java.lang.System.*;
 //
 //输入：nums = [0,3,7,2,5,8,4,6,0,1]
 //输出：9
-// 自己第一次做中等难度通过且时间超越90+的人,自己理解本题核心就是排序~
+// 自己第一次做中等难度通过且时间超越90+的人,自己理解本题核心就是排序~ 可惜 排序时间复杂度为o(n log n) 最终看题解，最优解均为哈希表＋动态规划
 // 记录下，写个题解~ https://leetcode.cn/problems/longest-consecutive-sequence/solutions/2519110/zui-chang-lian-xu-xu-lie-lian-xu-dang-ra-yfix/
 public class Test5 {
     static int[] nums = new int[]{9, 1, -3, 2, 4, 8, 3, -1, 6, -2, -4, 7};
