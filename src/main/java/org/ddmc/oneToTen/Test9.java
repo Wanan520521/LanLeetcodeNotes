@@ -1,4 +1,4 @@
-package org.ddmc;
+package org.ddmc.oneToTen;
 
 import java.util.ArrayList;
 import java.util.List;

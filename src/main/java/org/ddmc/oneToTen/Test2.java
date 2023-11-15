@@ -1,4 +1,4 @@
-package org.ddmc;
+package org.ddmc.oneToTen;
 
 /**
  * @author Lan
